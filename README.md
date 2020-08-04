@@ -1,5 +1,5 @@
 <h3 align='center'><samp><strong>Jeremiah Ogunyemi.</strong>😄</samp></h3> 
-<p align='center'> <samp>Software Engineer | Data Scientist  | Web Developer.</samp></p>
+<p align='center'> <samp>Software Developer | Data Scientist  | Web Developer.</samp></p>
 <br><br>
 
 <p align='center'>
