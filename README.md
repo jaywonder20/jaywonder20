@@ -1,5 +1,5 @@
 <h3 align='center'><samp><strong>Jeremiah Ogunyemi.</strong>😄</samp></h3> 
-<p align='center'> <samp>Software Engineer | Data Scientist  | Web Developer.</samp></p>
+<p align='center'> <samp>Software Developer | Data Scientist  | Web Developer.</samp></p>
 <br><br>
 
 <p align='center'>
@@ -9,10 +9,6 @@
 <a href="https://jaywonder20.netlify.app/"><img height="27" src="https://img.shields.io/badge/portfolio-%2312100E.svg?&style=for-the-badge&logo=superuser&logoColor=white" alt=""></a>&nbsp;&nbsp;
 <a href="mailto:ogunyemijeremiah@gmail.com"><img height="27" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=gmail" alt=""></a>
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaywonder20" alt="jaywonder20" /> <img 
-src="https://img.shields.io/github/followers/jaywonder20?style=social" alt="jaywonder20" /> <img
-src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=social" alt="jaywonder20" /> </p>
 
 - 🔭 I’m currently working on Solving problems using technology...:smile:
 
@@ -27,3 +23,7 @@ src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=s
 * 📫 You can reach me at **[ogunyemijeremiah@gmail.com](mailto:ogunyemijeremiah@gmail.com)**
 
 * ⚡ ! Fun fact **I love Country music:headphones:, watching documentaries and reading history**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaywonder20" alt="jaywonder20" /> <img 
+src="https://img.shields.io/github/followers/jaywonder20?style=social" alt="jaywonder20" /> <img
+src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=social" alt="jaywonder20" /> </p>
