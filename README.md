@@ -18,7 +18,7 @@
 
 * 👨‍💻 All of my projects are available on [my portfolio](httpss://.jaywonder20.netlify.app)
 
-* 💬 Ask me about **Python, Flask, Zappa, AWS IoT, Embedded Systems, Data Science and Country music**
+* 💬 Ask me about **Python, Flask,Django, Zappa, AWS IoT, Embedded Systems, Data Science and Country music**
 
 * 📫 You can reach me at **[ogunyemijeremiah@gmail.com](mailto:ogunyemijeremiah@gmail.com)**
 
@@ -27,3 +27,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaywonder20" alt="jaywonder20" /> <img 
 src="https://img.shields.io/github/followers/jaywonder20?style=social" alt="jaywonder20" /> <img
 src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=social" alt="jaywonder20" /> </p>
+
+---
+
+---
+
+<div align='center'>
+
+#### Checkout my latest Medium articles :bookmark_tabs:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ogunyemijeremiah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ogunyemijeremiah/0" alt="Recent Article 0">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ogunyemijeremiah/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ogunyemijeremiah/1" alt="Recent Article 1">
+
+</div>
