@@ -1,5 +1,5 @@
 <h3 align='center'><samp><strong>Jeremiah Ogunyemi.</strong>😄</samp></h3> 
-<p align='center'> <samp>Software Developer | Data Scientist  | Web Developer.</samp></p>
+<p align='center'> <samp>Software Developer | Data Scientist  | Web Developer </samp></p>
 <br><br>
 
 <p align='center'>
@@ -30,11 +30,19 @@ src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=s
 
 ---
 
+<div align='center'>
+
+### 🏆 Github Profile Trophies
+
+  <img src="https://github-profile-trophy.vercel.app/?username=jaywonder20&theme=gruvbox"/>
+
+</div>
+
 ---
 
 <div align='center'>
 
-#### Checkout my latest Medium articles :bookmark_tabs:
+### Checkout my latest Medium articles :bookmark_tabs:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ogunyemijeremiah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ogunyemijeremiah/0" alt="Recent Article 0">
 
