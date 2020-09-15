@@ -25,8 +25,11 @@
 * ⚡ ! Fun fact **I love Country music:headphones:, watching documentaries and reading history**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaywonder20" alt="jaywonder20" /> <img 
-src="https://img.shields.io/github/followers/jaywonder20?style=social" alt="jaywonder20" /> <img
-src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=social" alt="jaywonder20" /> </p>
+src="https://img.shields.io/github/followers/jaywonder20?style=social" alt="jaywonder20" />  
+  <img src="https://badges.pufler.dev/years/jaywonder20" alt "jaywonder20" />
+<img
+src="https://img.shields.io/twitter/follow/jaywonder20?label=Follow%20me&style=social" alt="jaywonder20" />
+</p>
 
 ---
 
